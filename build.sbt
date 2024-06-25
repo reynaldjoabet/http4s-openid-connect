@@ -1,7 +1,4 @@
-
-
 scalaVersion := "2.13.12"
-
 
 name := "http4s-openid-connect"
 
